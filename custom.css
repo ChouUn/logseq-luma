@@ -945,7 +945,7 @@ iframe[id^='youtube-player'] {
 /* experimental */
 @media (hover: hover) {
 
-  .cp__header,
+/*   .cp__header,
   .cp__right-sidebar-topbar {
     height: 10px;
     opacity: 0;
@@ -960,7 +960,8 @@ iframe[id^='youtube-player'] {
 
   .r.flex {
     flex-grow: 1;
-  }
+  } */
+
 }
 
 @media (min-width: 1024px) {
